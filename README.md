@@ -12,3 +12,5 @@ To launch the code:
 6. It will start to create images in the folder the python file locates in
 7. Stop when you get enough images
 8. Run a program to convert these images into video
+
+For more details refer to the pdf document
